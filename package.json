@@ -1,6 +1,6 @@
 {
-  "name": "@spaceone/console-core-lib",
-  "version": "1.14.7",
+  "name": "@cloudforet-test/console-core-lib",
+  "version": "0.0.0",
   "description": "SpaceONE Console Core Library",
   "scripts": {
     "build": "npm run babel && npm run tsc",
@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spaceone-dev/console-core-lib.git"
+    "url": "git+https://github.com/cloudforet-io/console-core-lib.git"
   },
   "author": "SpaceONE",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/spaceone-dev/console-core-lib#readme",
+  "homepage": "https://github.com/cloudforet-io/console-core-lib#readme",
   "dependencies": {
     "@vue/composition-api": ">= 0.6.7",
     "axios": "^0.25.0",
