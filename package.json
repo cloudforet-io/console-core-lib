@@ -1,6 +1,6 @@
 {
   "name": "@cloudforet-test/console-core-lib",
-  "version": "1.14.8",
+  "version": "1.14.9",
   "description": "SpaceONE Console Core Library",
   "scripts": {
     "build": "npm run babel && npm run tsc",
