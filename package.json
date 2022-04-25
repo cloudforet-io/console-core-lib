@@ -81,5 +81,8 @@
       "@semantic-release/git",
       "@semantic-release/changelog"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
